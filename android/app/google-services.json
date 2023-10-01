@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984341287399",
+    "project_id": "omidnikzad-app",
+    "storage_bucket": "omidnikzad-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984341287399:android:34a1575f4f4854c1c6ed42",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW-hbGDkJRAoSMgXRzssGP-5ILUULlhqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
